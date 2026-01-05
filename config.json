@@ -1,0 +1,10 @@
+{
+  "base_dir": "to_sort",
+  "folders": {
+    "Images": [".jpg", ".jpeg", ".png", ".gif"],
+    "Documents": [".pdf", ".docx", ".txt", ".xlsx"],
+    "Videos": [".mp4", ".mkv"],
+    "Code": [".py", ".js", ".html", ".css"]
+  },
+  "log_file": "log.txt"
+}
